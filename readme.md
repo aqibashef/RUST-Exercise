@@ -7,5 +7,7 @@
     same as Level 2 but with multiple operands. There will be an order in which the operands will be performed. Example: “212 + 24 * 2 - 76”
 - ### Level 3: 
     Do simplification problems. Level 2 with parentheses. Ex: (5 + 3 * 3) - (2 + 2)
+## 2. Fibonacci:
+    Write a function that takes an integer n and returns the nth Fibonacci number. Use a loop to calculate the result. Also use recursion.
 ## 7. Factorial:
     Write a recursive function that calculates the factorial of a given integer n. Also use a loop.
