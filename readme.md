@@ -9,5 +9,7 @@
     Do simplification problems. Level 2 with parentheses. Ex: (5 + 3 * 3) - (2 + 2)
 ## 2. Fibonacci:
 Write a function that takes an integer n and returns the nth Fibonacci number. Use a loop to calculate the result. Also use recursion.
+## 3. Temperature Converter:
+Write a program that converts temperatures between Fahrenheit and Celsius. The user should specify the input temperature and the conversion direction.
 ## 7. Factorial:
 Write a recursive function that calculates the factorial of a given integer n. Also use a loop.
