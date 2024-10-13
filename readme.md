@@ -11,5 +11,11 @@
 Write a function that takes an integer n and returns the nth Fibonacci number. Use a loop to calculate the result. Also use recursion.
 ## 3. Temperature Converter:
 Write a program that converts temperatures between Fahrenheit and Celsius. The user should specify the input temperature and the conversion direction.
+## 4. Sum of Even Numbers:
+Write a function that takes an array of integers and returns the sum of the even numbers in the array.
+```
+Input: 1 2 4 2 7 0 3
+Output: 8
+```
 ## 7. Factorial:
 Write a recursive function that calculates the factorial of a given integer n. Also use a loop.
