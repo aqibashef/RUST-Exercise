@@ -17,5 +17,9 @@ Write a function that takes an array of integers and returns the sum of the even
 Input: 1 2 4 2 7 0 3
 Output: 8
 ```
+## 5. Student Struct:
+Define a struct to represent a student with fields for name, age, and grade. Write a function that takes a vector of students and prints the names of all students who are 18 years old or older.
+
+
 ## 7. Factorial:
 Write a recursive function that calculates the factorial of a given integer n. Also use a loop.
